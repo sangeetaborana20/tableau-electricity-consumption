@@ -1,7 +1,7 @@
 📖 Overview
 This project analyzes electricity consumption patterns across Indian states using Tableau dashboards integrated into a Flask web application. The goal is to transform raw electricity usage data into interactive visual insights that support energy planning, research, and decision-making.
 
-Team Members:-
+Team Members:-     
 Sangeeta Borana - Member     
 Rushikesh Mhaske - Team Lead     
 Saloni Hegde - Member     
